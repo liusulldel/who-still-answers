@@ -23,6 +23,15 @@ reviewable versions, and the Markdown files are included for transparency. Some
 intermediate artifact names are documented in the appendix, but executable
 replication code and derived panels are not included in this public package.
 
+## Headline Panel Statistics
+
+- **N = 2,322,009** focal-tag Stack Overflow questions (full extended panel)
+- **N = 2,035,885** focal-tag Stack Overflow questions (harmonized integration cut)
+- 16 technical domains; time window 2020-01-01 through 2025-12-31
+- Treatment reference: ChatGPT public release (2022-11-30)
+- Replication scripts and derived panels are in the companion repository
+  [`stackoverflow-chatgpt-governance`](https://github.com/liusulldel/stackoverflow-chatgpt-governance)
+
 ## Data
 
 The analysis uses the official Stack Exchange Data Dump for Stack Overflow,
