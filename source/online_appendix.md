@@ -1,7 +1,7 @@
-# Online Appendix for Private AI, Public Answer Work, and Certification at Stack Overflow
+﻿# Online Appendix for Private AI, Public Answer Work, and Certification at Stack Overflow
 
 Main manuscript:
-- [who_still_answers_option_c_manuscript.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_option_c_manuscript.md)
+- `who_still_answers_option_c_manuscript.md` (not included in this public package; original artifact: `paper/who_still_answers_option_c_manuscript.md`)
 
 ## A. Canonical Source Regime
 
@@ -15,8 +15,8 @@ Reviewer-facing rule:
 
 Key control files:
 
-- [who_still_answers_option_c_canonical_lock_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_option_c_canonical_lock_2026-04-04.md)
-- [who_still_answers_ws6_completion_memo_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_ws6_completion_memo_2026-04-04.md)
+- `who_still_answers_option_c_canonical_lock_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_option_c_canonical_lock_2026-04-04.md`)
+- `who_still_answers_ws6_completion_memo_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_ws6_completion_memo_2026-04-04.md`)
 
 ## B. Sample and Linked Objects
 
@@ -29,13 +29,13 @@ The current backbone contains:
 The main linked objects used by the rebuilt mechanism paper are:
 
 1. durability entrant panel  
-   [who_still_answers_durability_entrant_panel.parquet](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_durability_entrant_panel.parquet)
+   `who_still_answers_durability_entrant_panel.parquet` (not included in this public package; original artifact: `processed/who_still_answers_durability_entrant_panel.parquet`)
 2. answer-role question panel  
-   [who_still_answers_answer_role_question_panel.parquet](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_answer_role_question_panel.parquet)
+   `who_still_answers_answer_role_question_panel.parquet` (not included in this public package; original artifact: `processed/who_still_answers_answer_role_question_panel.parquet`)
 3. answer-role tag-month panel  
-   [who_still_answers_answer_role_tag_month_panel.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_answer_role_tag_month_panel.csv)
+   `who_still_answers_answer_role_tag_month_panel.csv` (not included in this public package; original artifact: `processed/who_still_answers_answer_role_tag_month_panel.csv`)
 4. infrastructure bridge panel  
-   [who_still_answers_infrastructure_bridge_panel.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_infrastructure_bridge_panel.csv)
+   `who_still_answers_infrastructure_bridge_panel.csv` (not included in this public package; original artifact: `processed/who_still_answers_infrastructure_bridge_panel.csv`)
 
 ### B1. Single-Focal Attrition
 
@@ -49,7 +49,7 @@ Attrition summary:
 | excluded multi-tag questions | `286,124` | `12.3%` | `0.681` | `917.7` | `1.254` | `0.514` | `3.63` |
 
 Source table:
-- [who_still_answers_single_focal_attrition_summary.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_single_focal_attrition_summary.csv)
+- `who_still_answers_single_focal_attrition_summary.csv` (not included in this public package; original artifact: `processed/who_still_answers_single_focal_attrition_summary.csv`)
 
 Safe read:
 
@@ -62,7 +62,7 @@ Safe read:
 ### C1. Durability
 
 Readout:
-- [who_still_answers_durability_mechanism_readout_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_durability_mechanism_readout_2026-04-04.md)
+- `who_still_answers_durability_mechanism_readout_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_durability_mechanism_readout_2026-04-04.md`)
 
 Core outcomes:
 
@@ -88,7 +88,7 @@ Durability is promoted, but it is not the strongest family after the full `WS6` 
 ### C2. Answer-Role Reallocation
 
 Readout:
-- [who_still_answers_answer_role_mechanism_readout_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_answer_role_mechanism_readout_2026-04-04.md)
+- `who_still_answers_answer_role_mechanism_readout_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_answer_role_mechanism_readout_2026-04-04.md`)
 
 Core promoted role outcomes on `recent_entrant_90d_share`:
 
@@ -104,7 +104,7 @@ The safe claim is not that accepted-current certification is unaffected. The saf
 ### C3. Infrastructure Bridge
 
 Readout:
-- [who_still_answers_infrastructure_bridge_readout_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_infrastructure_bridge_readout_2026-04-04.md)
+- `who_still_answers_infrastructure_bridge_readout_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_infrastructure_bridge_readout_2026-04-04.md`)
 
 Core bridge variable:
 
@@ -124,8 +124,8 @@ The bridge is an independent consequence layer, not a mediation claim.
 
 Finish-stage decomposition files:
 
-- [who_still_answers_mechanism_decomposition_table.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_mechanism_decomposition_table.csv)
-- [who_still_answers_finish_empirical_upgrades_readout_2026-04-16.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_finish_empirical_upgrades_readout_2026-04-16.md)
+- `who_still_answers_mechanism_decomposition_table.csv` (not included in this public package; original artifact: `processed/who_still_answers_mechanism_decomposition_table.csv`)
+- `who_still_answers_finish_empirical_upgrades_readout_2026-04-16.md` (not included in this public package; original artifact: `paper/who_still_answers_finish_empirical_upgrades_readout_2026-04-16.md`)
 
 The decomposition separates incumbent answer intensity from entrant and role-location margins. The safest read is:
 
@@ -137,7 +137,7 @@ The decomposition separates incumbent answer intensity from entrant and role-loc
 
 Finish-stage certification files:
 
-- [who_still_answers_certification_conversion_ladder.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_certification_conversion_ladder.csv)
+- `who_still_answers_certification_conversion_ladder.csv` (not included in this public package; original artifact: `processed/who_still_answers_certification_conversion_ladder.csv`)
 
 Main accepted-certification rows:
 
@@ -166,7 +166,7 @@ The final build separates incumbent capacity from recent-entrant role location. 
 | recent entrant share | top score | `+0.0205` | `0.0125` | more recent entrants in top-scored role |
 
 Source table:
-- [who_still_answers_mechanism_decomposition_table.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_mechanism_decomposition_table.csv)
+- `who_still_answers_mechanism_decomposition_table.csv` (not included in this public package; original artifact: `processed/who_still_answers_mechanism_decomposition_table.csv`)
 
 Safe read:
 
@@ -188,7 +188,7 @@ The role-level conversion ladder separates accepted-current conversion rates, po
 | top-scored answer | acceptance lag among accepted answers | `+2.48` days | `0.0072` | slower conversion into accepted resolution |
 
 Source table:
-- [who_still_answers_certification_conversion_ladder.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_certification_conversion_ladder.csv)
+- `who_still_answers_certification_conversion_ladder.csv` (not included in this public package; original artifact: `processed/who_still_answers_certification_conversion_ladder.csv`)
 
 Safe read:
 
@@ -199,7 +199,7 @@ Safe read:
 ## D. WS6 Conservative Inference
 
 Primary gate file:
-- [who_still_answers_ws6_small_sample_inference.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_ws6_small_sample_inference.csv)
+- `who_still_answers_ws6_small_sample_inference.csv` (not included in this public package; original artifact: `processed/who_still_answers_ws6_small_sample_inference.csv`)
 
 Key promoted rows:
 
@@ -217,10 +217,10 @@ Inferential hierarchy used in the manuscript:
 ## E. WS6 Timing and Construct Sensitivity
 
 Timing audit:
-- [who_still_answers_ws6_timing_audit.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_ws6_timing_audit.csv)
+- `who_still_answers_ws6_timing_audit.csv` (not included in this public package; original artifact: `processed/who_still_answers_ws6_timing_audit.csv`)
 
 Construct sensitivity:
-- [who_still_answers_ws6_construct_sensitivity.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_ws6_construct_sensitivity.csv)
+- `who_still_answers_ws6_construct_sensitivity.csv` (not included in this public package; original artifact: `processed/who_still_answers_ws6_construct_sensitivity.csv`)
 
 Main timing read:
 
@@ -235,14 +235,14 @@ Main construct-sensitivity read:
 ## F. Timing Triangulation
 
 Timing triangulation memo:
-- [who_still_answers_timing_triangulation_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_timing_triangulation_2026-04-04.md)
+- `who_still_answers_timing_triangulation_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_timing_triangulation_2026-04-04.md`)
 
 Additional timing support files:
 
-- [who_still_answers_external_ai_timing_layer_readout_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_external_ai_timing_layer_readout_2026-04-04.md)
-- [who_still_answers_internal_ai_timing_trace_readout_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_internal_ai_timing_trace_readout_2026-04-04.md)
-- [who_still_answers_external_ai_timing_results.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_external_ai_timing_results.csv)
-- [who_still_answers_internal_ai_timing_results.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_internal_ai_timing_results.csv)
+- `who_still_answers_external_ai_timing_layer_readout_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_external_ai_timing_layer_readout_2026-04-04.md`)
+- `who_still_answers_internal_ai_timing_trace_readout_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_internal_ai_timing_trace_readout_2026-04-04.md`)
+- `who_still_answers_external_ai_timing_results.csv` (not included in this public package; original artifact: `processed/who_still_answers_external_ai_timing_results.csv`)
+- `who_still_answers_internal_ai_timing_results.csv` (not included in this public package; original artifact: `processed/who_still_answers_internal_ai_timing_results.csv`)
 
 Safe read:
 
@@ -253,10 +253,10 @@ Safe read:
 
 Canonical same-setting timing support:
 
-- [who_still_answers_disclosed_ai_corpus_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_disclosed_ai_corpus_2026-04-04.md)
-- [who_still_answers_ai_ban_strict_question_side_2026-04-06.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_ai_ban_strict_question_side_2026-04-06.md)
-- [who_still_answers_disclosed_ai_counts.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_disclosed_ai_counts.csv)
-- [who_still_answers_ai_ban_strict_question_side_results.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_ai_ban_strict_question_side_results.csv)
+- `who_still_answers_disclosed_ai_corpus_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_disclosed_ai_corpus_2026-04-04.md`)
+- `who_still_answers_ai_ban_strict_question_side_2026-04-06.md` (not included in this public package; original artifact: `paper/who_still_answers_ai_ban_strict_question_side_2026-04-06.md`)
+- `who_still_answers_disclosed_ai_counts.csv` (not included in this public package; original artifact: `processed/who_still_answers_disclosed_ai_counts.csv`)
+- `who_still_answers_ai_ban_strict_question_side_results.csv` (not included in this public package; original artifact: `processed/who_still_answers_ai_ban_strict_question_side_results.csv`)
 
 Earlier broader ban-window and posthistory timing files remain archival scaffolds, not canonical reviewer-facing timing evidence.
 
@@ -274,7 +274,7 @@ Pre-shock slope tests:
 | `accepted_vote_30d_rate` | `+0.000283` | `0.0038` | meaningful pre-trend |
 
 Source table:
-- [who_still_answers_pretrend_diagnostics_table.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_pretrend_diagnostics_table.csv)
+- `who_still_answers_pretrend_diagnostics_table.csv` (not included in this public package; original artifact: `processed/who_still_answers_pretrend_diagnostics_table.csv`)
 
 Safe read:
 
@@ -285,13 +285,13 @@ Safe read:
 ## G. Exposure Validation Ladder
 
 Exposure-validation memo:
-- [who_still_answers_exposure_validation_ladder_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_exposure_validation_ladder_2026-04-04.md)
+- `who_still_answers_exposure_validation_ladder_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_exposure_validation_ladder_2026-04-04.md`)
 
 Supporting files:
 
-- [who_still_answers_jetbrains_calibration_readout_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_jetbrains_calibration_readout_2026-04-04.md)
-- [who_still_answers_jetbrains_calibration_table_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_jetbrains_calibration_table_2026-04-04.md)
-- [who_still_answers_jetbrains_calibration_table.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_jetbrains_calibration_table.csv)
+- `who_still_answers_jetbrains_calibration_readout_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_jetbrains_calibration_readout_2026-04-04.md`)
+- `who_still_answers_jetbrains_calibration_table_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_jetbrains_calibration_table_2026-04-04.md`)
+- `who_still_answers_jetbrains_calibration_table.csv` (not included in this public package; original artifact: `processed/who_still_answers_jetbrains_calibration_table.csv`)
 
 Safe read:
 
@@ -327,8 +327,8 @@ The paper now reports the full tag ordering directly.
 | `16` | `docker` | Low | `-2.068` | `0.176` | `1.415` | `45,761` |
 
 Source table:
-- [who_still_answers_exposure_ranking_table.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_exposure_ranking_table.csv)
-- [who_still_answers_16tag_external_calibration_table.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_16tag_external_calibration_table.csv)
+- `who_still_answers_exposure_ranking_table.csv` (not included in this public package; original artifact: `processed/who_still_answers_exposure_ranking_table.csv`)
+- `who_still_answers_16tag_external_calibration_table.csv` (not included in this public package; original artifact: `processed/who_still_answers_16tag_external_calibration_table.csv`)
 
 Safe read:
 
@@ -361,7 +361,7 @@ The final build maps every focal tag to its matched JetBrains calibration cluste
 | `16` | `docker` | `-2.068` | Shell / infra / cloud | `0.067` |
 
 Source table:
-- [who_still_answers_16tag_external_calibration_table.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_16tag_external_calibration_table.csv)
+- `who_still_answers_16tag_external_calibration_table.csv` (not included in this public package; original artifact: `processed/who_still_answers_16tag_external_calibration_table.csv`)
 
 Safe read:
 
@@ -372,19 +372,19 @@ Safe read:
 ## H. Direct-AI-Use External Prototype
 
 Positioning memo:
-- [who_still_answers_aidev_positioning_note_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_aidev_positioning_note_2026-04-04.md)
+- `who_still_answers_aidev_positioning_note_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_aidev_positioning_note_2026-04-04.md`)
 
 Supporting files:
 
-- [who_still_answers_aidev_second_setting_prototype_readout_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_aidev_second_setting_prototype_readout_2026-04-04.md)
-- [who_still_answers_aidev_fe_results.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_aidev_fe_results.csv)
-- [who_still_answers_aidev_strict_overlap_fe_results.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_aidev_strict_overlap_fe_results.csv)
-- [who_still_answers_aidev_domain_overlap_upgrade_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_aidev_domain_overlap_upgrade_2026-04-04.md)
-- [who_still_answers_aidev_domain_overlap_results.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_aidev_domain_overlap_results.csv)
-- [who_still_answers_devgpt_source_map_2026-04-05.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_devgpt_source_map_2026-04-05.md)
-- [who_still_answers_devgpt_positioning_2026-04-05.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_devgpt_positioning_2026-04-05.md)
-- [who_still_answers_devgpt_sidecar_readout_2026-04-05.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_devgpt_sidecar_readout_2026-04-05.md)
-- [who_still_answers_devgpt_sidecar_results.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_devgpt_sidecar_results.csv)
+- `who_still_answers_aidev_second_setting_prototype_readout_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_aidev_second_setting_prototype_readout_2026-04-04.md`)
+- `who_still_answers_aidev_fe_results.csv` (not included in this public package; original artifact: `processed/who_still_answers_aidev_fe_results.csv`)
+- `who_still_answers_aidev_strict_overlap_fe_results.csv` (not included in this public package; original artifact: `processed/who_still_answers_aidev_strict_overlap_fe_results.csv`)
+- `who_still_answers_aidev_domain_overlap_upgrade_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_aidev_domain_overlap_upgrade_2026-04-04.md`)
+- `who_still_answers_aidev_domain_overlap_results.csv` (not included in this public package; original artifact: `processed/who_still_answers_aidev_domain_overlap_results.csv`)
+- `who_still_answers_devgpt_source_map_2026-04-05.md` (not included in this public package; original artifact: `paper/who_still_answers_devgpt_source_map_2026-04-05.md`)
+- `who_still_answers_devgpt_positioning_2026-04-05.md` (not included in this public package; original artifact: `paper/who_still_answers_devgpt_positioning_2026-04-05.md`)
+- `who_still_answers_devgpt_sidecar_readout_2026-04-05.md` (not included in this public package; original artifact: `paper/who_still_answers_devgpt_sidecar_readout_2026-04-05.md`)
+- `who_still_answers_devgpt_sidecar_results.csv` (not included in this public package; original artifact: `processed/who_still_answers_devgpt_sidecar_results.csv`)
 
 Safe read:
 
@@ -396,17 +396,17 @@ Safe read:
 ## I. Display Packet and Figures
 
 Display guide:
-- [who_still_answers_option_c_display_packet.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_option_c_display_packet.md)
-- [who_still_answers_rendered_tables_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_rendered_tables_2026-04-04.md)
-- [who_still_answers_rendered_figures_2026-04-04.md](D:/AI alignment/projects/stackoverflow_chatgpt_governance/paper/who_still_answers_rendered_figures_2026-04-04.md)
+- `who_still_answers_option_c_display_packet.md` (not included in this public package; original artifact: `paper/who_still_answers_option_c_display_packet.md`)
+- `who_still_answers_rendered_tables_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_rendered_tables_2026-04-04.md`)
+- `who_still_answers_rendered_figures_2026-04-04.md` (not included in this public package; original artifact: `paper/who_still_answers_rendered_figures_2026-04-04.md`)
 
 Core figures:
 
-- [who_still_answers_durability_mechanism.png](D:/AI alignment/projects/stackoverflow_chatgpt_governance/figures/who_still_answers_durability_mechanism.png)
-- [who_still_answers_answer_role_mechanism.png](D:/AI alignment/projects/stackoverflow_chatgpt_governance/figures/who_still_answers_answer_role_mechanism.png)
-- [who_still_answers_infrastructure_bridge.png](D:/AI alignment/projects/stackoverflow_chatgpt_governance/figures/who_still_answers_infrastructure_bridge.png)
-- [who_still_answers_ws6_conservative_inference.png](D:/AI alignment/projects/stackoverflow_chatgpt_governance/figures/who_still_answers_ws6_conservative_inference.png)
-- [who_still_answers_ws6_timing_rank_panel.png](D:/AI alignment/projects/stackoverflow_chatgpt_governance/figures/who_still_answers_ws6_timing_rank_panel.png)
+- `who_still_answers_durability_mechanism.png` (not included in this public package; original artifact: `figures/who_still_answers_durability_mechanism.png`)
+- `who_still_answers_answer_role_mechanism.png` (not included in this public package; original artifact: `figures/who_still_answers_answer_role_mechanism.png`)
+- `who_still_answers_infrastructure_bridge.png` (not included in this public package; original artifact: `figures/who_still_answers_infrastructure_bridge.png`)
+- `who_still_answers_ws6_conservative_inference.png` (not included in this public package; original artifact: `figures/who_still_answers_ws6_conservative_inference.png`)
+- `who_still_answers_ws6_timing_rank_panel.png` (not included in this public package; original artifact: `figures/who_still_answers_ws6_timing_rank_panel.png`)
 
 ## J. Residual Queue Complexity Summary
 
@@ -423,7 +423,7 @@ The queue-composition layer relies on observable shape and complexity proxies. S
 | `residual_queue_complexity_index_mean` | `0.074` | `0.195` | `0.055` |
 
 Source table:
-- [who_still_answers_residual_queue_complexity_summary_stats.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/who_still_answers_residual_queue_complexity_summary_stats.csv)
+- `who_still_answers_residual_queue_complexity_summary_stats.csv` (not included in this public package; original artifact: `processed/who_still_answers_residual_queue_complexity_summary_stats.csv`)
 
 ## K. Interpretation Boundaries
 
@@ -441,9 +441,9 @@ The project did inspect closure-side archival traces, but that line is not promo
 
 Supporting files:
 
-- [build_who_still_answers_moderation_summary.json](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/build_who_still_answers_moderation_summary.json)
-- [build_who_still_answers_moderation_panel.csv](D:/AI alignment/projects/stackoverflow_chatgpt_governance/processed/build_who_still_answers_moderation_panel.csv)
-- [build_who_still_answers_moderation_layer.py](D:/AI alignment/projects/stackoverflow_chatgpt_governance/scripts/build_who_still_answers_moderation_layer.py)
+- `build_who_still_answers_moderation_summary.json` (not included in this public package; original artifact: `processed/build_who_still_answers_moderation_summary.json`)
+- `build_who_still_answers_moderation_panel.csv` (not included in this public package; original artifact: `processed/build_who_still_answers_moderation_panel.csv`)
+- `build_who_still_answers_moderation_layer.py` (not included in this public package; original artifact: `scripts/build_who_still_answers_moderation_layer.py`)
 
 Safe read:
 
