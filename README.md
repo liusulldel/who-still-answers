@@ -1,56 +1,29 @@
 # Who Still Answers
 
-This repository contains the manuscript materials for the working paper
+This repository contains the manuscript materials for
 *Private AI, Public Answer Work, and Certification at Stack Overflow*.
 
-The project studies how Stack Overflow answer work changed during the period
-when private AI tools became a more realistic alternative for technical problem
-solving. The main question is not only whether activity fell, but which
-questions still reached the public archive, who answered them, and how often
-early answers became accepted public resolutions.
+Included files:
 
-## What is included
+- `01_Manuscript.pdf` - rendered main manuscript
+- `02_Online_Appendix.pdf` - appendix with methods, robustness checks, and additional results
+- `source/manuscript.md` - markdown source for the manuscript
+- `source/online_appendix.md` - markdown source for the appendix
 
-| File | Description |
-| --- | --- |
-| `01_Manuscript.pdf` | Rendered main manuscript |
-| `02_Online_Appendix.pdf` | Appendix with methods, robustness checks, and additional results |
-| `source/manuscript.md` | Markdown source for the manuscript |
-| `source/online_appendix.md` | Markdown source for the appendix |
+The repository does not include replication code or derived data. The analysis
+uses the official Stack Overflow `2025Q4` data dump, hosted by the Internet
+Archive at <https://archive.org/details/stackexchange>. Raw dump extracts and
+derived parquet, CSV, or SQLite files are not checked in.
 
-There is no build pipeline in this repository. The checked-in PDFs are the
-reviewable versions, and the Markdown files are included for transparency. Some
-intermediate artifact names are documented in the appendix, but executable
-replication code and derived panels are not included in this public package.
+The paper is an observational study of Stack Overflow behavior from
+2020-01-01 through 2025-12-31. It compares domains where early generative AI
+was more or less plausible as a substitute for asking public questions.
 
 ## Headline Panel Statistics
 
 - **N = 2,322,009** focal-tag Stack Overflow questions (full extended panel)
 - **N = 2,035,885** focal-tag Stack Overflow questions (harmonized integration cut)
 - 16 technical domains; time window 2020-01-01 through 2025-12-31
-- Treatment reference: ChatGPT public release (2022-11-30)
-- Replication scripts and derived panels are in the companion repository
-  [`stackoverflow-chatgpt-governance`](https://github.com/liusulldel/stackoverflow-chatgpt-governance)
-
-## Data
-
-The analysis uses the official Stack Exchange Data Dump for Stack Overflow,
-snapshot `2025Q4`, hosted by the Internet Archive:
-<https://archive.org/details/stackexchange>.
-
-The raw dump and derived parquet, CSV, or SQLite files are not included here.
-They are large, publicly hosted elsewhere, and remain subject to Stack
-Exchange's CC BY-SA terms. The appendix documents focal tags, time windows, and
-sample construction rules, but this repository should be treated as a manuscript
-package rather than a clean-machine replication bundle.
-
-## Scope and caveats
-
-The paper is an observational study of Stack Overflow behavior from
-2020-01-01 through 2025-12-31. It compares domains where early generative AI was
-more or less plausible as a substitute for asking public questions. The results
-should be read as evidence about platform-level reallocation and certification
-patterns, not as a direct measure of private AI use by individual users.
 
 ## Citation
 
