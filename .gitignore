@@ -1,0 +1,31 @@
+# Data dumps (license + size)
+*.parquet
+*.csv
+*.tsv
+*.sqlite
+*.sqlite3
+*.db
+*.7z
+*.zip
+
+# Secrets / env
+.env
+.env.*
+*.key
+*.pem
+secrets/
+credentials*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
